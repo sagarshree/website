@@ -1,0 +1,26 @@
+body {
+    background-color: #EAF6F6;
+  }
+
+  hr {
+    background-color: #EAF6F6;
+    border-style:dotted none none none ;
+    height: 0px;
+    border-color: turquoise;
+    border-width: 10px;
+    width: 20%;
+  }
+  fieldset {
+    border-style: dotted;
+    border-color: turquoise;
+    border-width: 5px;
+  }
+  h1 {
+      color: #0080FF;
+  }
+  h3 {
+    color: #0080FF;
+  }
+  #profileimage{
+    border-radius: 150%;
+  }
